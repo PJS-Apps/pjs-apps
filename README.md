@@ -1,8 +1,8 @@
 # PJS Apps site
 
-Static pages for **https://pjs-apps.com**, published with GitHub Pages. No extra host.
+Static pages for **https://pjs-apps.com**, published with GitHub Pages from [PJS-Apps/pjs-apps](https://github.com/PJS-Apps/pjs-apps).
 
-Live as soon as Pages is on: [https://skordaschristofanis.github.io/pjs-apps/](https://skordaschristofanis.github.io/pjs-apps/)
+Live now: [https://pjs-apps.github.io/pjs-apps/](https://pjs-apps.github.io/pjs-apps/)
 
 After DNS: [https://pjs-apps.com](https://pjs-apps.com)
 
@@ -26,7 +26,7 @@ In the domain registrar:
    - `185.199.109.153`
    - `185.199.110.153`
    - `185.199.111.153`
-2. **www** — CNAME to `skordaschristofanis.github.io`
+2. **www** — CNAME to `pjs-apps.github.io`
 
 This repo already has a `CNAME` file for `pjs-apps.com`. GitHub will request HTTPS once the records exist.
 
