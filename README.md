@@ -28,7 +28,7 @@ In the domain registrar:
    - `185.199.111.153`
 2. **www** — CNAME to `pjs-apps.github.io`
 
-This repo already has a `CNAME` file for `pjs-apps.com`. GitHub will request HTTPS once the records exist.
+This repo is ready for a custom domain. After the A / CNAME records above exist, add a `CNAME` file at the repo root containing `pjs-apps.com` (one line) and GitHub will issue HTTPS.
 
 ## Local
 
